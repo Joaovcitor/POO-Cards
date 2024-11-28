@@ -1,0 +1,14 @@
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\bin\Debug\net8.0\POOLivro.exe
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\bin\Debug\net8.0\POOLivro.deps.json
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\bin\Debug\net8.0\POOLivro.runtimeconfig.json
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\bin\Debug\net8.0\POOLivro.dll
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\bin\Debug\net8.0\POOLivro.pdb
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.AssemblyInfoInputs.cache
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.AssemblyInfo.cs
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.csproj.CoreCompileInputs.cache
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.dll
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\refint\POOLivro.dll
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.pdb
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\POOLivro.genruntimeconfig.cache
+C:\Users\Neguc\source\repos\POOLivro\POOLivro\obj\Debug\net8.0\ref\POOLivro.dll
